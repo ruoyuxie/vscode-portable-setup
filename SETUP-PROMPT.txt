@@ -1,0 +1,3 @@
+Set up my portable VS Code shortcuts and shell aliases from https://github.com/ruoyuxie/vscode-portable-setup.
+
+Clone the repo and read README.md and AGENTS.md. My local computer is macOS and my remote machine is separate. Detect the shell, back up existing files, and run the appropriate installer. Install aliases on every machine you can access; install the shortcuts only in the local Mac's active VS Code user/profile directory. If you can only access the remote machine, finish that part and give me the exact command to run on the Mac. Verify the setup without executing the aliases, and report any extensions or tools needed. The shortcuts are the saved October 3 export.
